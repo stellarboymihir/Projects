@@ -24,6 +24,15 @@ https://github.com/stellarboymihir/mynotes
   Expanded Widget - Indian Flag  
   https://github.com/stellarboymihir/Expanded  
 
+  World Time Application:  
+  https://github.com/stellarboymihir/world_time  
+
+  Quotes:  
+  https://github.com/stellarboymihir/quotes   
+
+  Ninja ID Application:  
+  https://github.com/stellarboymihir/ninja_id  
+  
   ** Widgets in Flutter **  
 
   Widgets:  
@@ -70,6 +79,10 @@ https://github.com/stellarboymihir/mynotes
   Intent App:  
   https://github.com/stellarboymihir/IntentApp  
 
-  **  Machine Learning **  
+
+
+  **  Machine Learning **   
+  AI-ML Workshop:  
+  https://github.com/stellarboymihir/AI-ML-DS_Workshop
   
   
