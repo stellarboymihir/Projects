@@ -1,7 +1,8 @@
 # Projects
 List of various projects Done by me.
 
-**FLutter Applications** 
+**FLutter Applications**  
+
   Unit-Converter Application:   
 https://github.com/stellarboymihir/unit-converter-app
 
@@ -18,7 +19,15 @@ https://github.com/stellarboymihir/mynotes
   https://github.com/stellarboymihir/Alarm-Clock-App
 
   Time-Picker Application:  
-  https://github.com/stellarboymihir/Time-picker
+  https://github.com/stellarboymihir/Time-picker  
+
+  Expanded Widget - Indian Flag  
+  https://github.com/stellarboymihir/Expanded  
+
+  ** Widgets in Flutter **  
+
+  Widgets:  
+  https://github.com/stellarboymihir/Widget
 
 
   ** Web Development **
@@ -35,7 +44,8 @@ https://github.com/stellarboymihir/mynotes
   Hover-Effect:  
   https://github.com/stellarboymihir/Hover-Effect
 
-  ** Java **
+  ** Java **  
+  
   Login App:  
   https://github.com/stellarboymihir/LoginApp  
   
@@ -60,5 +70,6 @@ https://github.com/stellarboymihir/mynotes
   Intent App:  
   https://github.com/stellarboymihir/IntentApp  
 
-  **  Machine Learning **
+  **  Machine Learning **  
+  
   
