@@ -1,13 +1,13 @@
 # Projects
 List of various projects Done by me.
 
-# FLutter Applications**  
+# FLutter Applications  
 
   Unit-Converter Application:   
-https://github.com/stellarboymihir/unit-converter-app
+  https://github.com/stellarboymihir/unit-converter-app
 
   MyNotes Application:   
-https://github.com/stellarboymihir/mynotes
+  https://github.com/stellarboymihir/mynotes
 
   Quiz Application:  
   https://github.com/stellarboymihir/CodSoft-Task-2-Quiz-App
@@ -33,13 +33,13 @@ https://github.com/stellarboymihir/mynotes
   Ninja ID Application:  
   https://github.com/stellarboymihir/ninja_id  
   
-  ** Widgets in Flutter **  
+  # Widgets in Flutter   
 
   Widgets:  
   https://github.com/stellarboymihir/Widget
 
 
-  ** Web Development **
+  # Web Development  
 
   Contact-Us:  
   https://github.com/stellarboymihir/CONTACT-US  
@@ -53,7 +53,7 @@ https://github.com/stellarboymihir/mynotes
   Hover-Effect:  
   https://github.com/stellarboymihir/Hover-Effect
 
-  ** Java **  
+ #  Java     
   
   Login App:  
   https://github.com/stellarboymihir/LoginApp  
@@ -81,7 +81,7 @@ https://github.com/stellarboymihir/mynotes
 
 
 
-  **  Machine Learning **   
+  #  Machine Learning     
   AI-ML Workshop:  
   https://github.com/stellarboymihir/AI-ML-DS_Workshop
   
