@@ -137,7 +137,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
 
 
   #  Machine Learning    
-  https://icons8.com/icon/HK1XeFoN7Evh/machine-learning  
+  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/machine-learning.png" alt="machine-learning"/>  
   
   AI-ML Workshop:  
   https://github.com/stellarboymihir/AI-ML-DS_Workshop
