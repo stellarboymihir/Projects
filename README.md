@@ -35,6 +35,7 @@ List of various projects Done by me.
   https://github.com/stellarboymihir/ninja_id  
   
   # Widgets in Flutter   
+  <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-widget-no-code-flaticons-flat-flat-icons-2.png" alt="external-widget-no-code-flaticons-flat-flat-icons-2"/>  
 
   Widgets:  
   https://github.com/stellarboymihir/Widget
