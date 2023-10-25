@@ -1,7 +1,7 @@
 # Projects
 List of various projects Done by me.
 
-**FLutter Applications**  
+# FLutter Applications**  
 
   Unit-Converter Application:   
 https://github.com/stellarboymihir/unit-converter-app
