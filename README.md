@@ -90,7 +90,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
   Contact-Us:  
   https://github.com/stellarboymihir/CONTACT-US  
   
-  Ganpati-Bappa-Moraya: 
+  Ganpati-Bappa-Moraya:  
   https://github.com/stellarboymihir/Ganpati-Bappa-Moraya  
   
   Forest-Landing-Page:  
@@ -119,7 +119,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
   Recycler View App:  
   https://github.com/stellarboymihir/RecyclerView  
   
-  Explicit Intent App: 
+  Explicit Intent App:  
   https://github.com/stellarboymihir/Explicit-Intent  
   
   Intent App:  
