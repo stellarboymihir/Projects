@@ -35,7 +35,7 @@ List of various projects Done by me.
   https://github.com/stellarboymihir/ninja_id  
   
   # Widgets in Flutter   
-<img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-widget-no-code-flaticons-flat-flat-icons-2.png" alt="external-widget-no-code-flaticons-flat-flat-icons-2"/>   
+<img width="144" height="144" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-widget-no-code-flaticons-flat-flat-icons-2.png" alt="external-widget-no-code-flaticons-flat-flat-icons-2"/>   
 
   Widgets:  
   https://github.com/stellarboymihir/Widget
@@ -88,7 +88,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
 
 
   # Web Development   
-  <img width="100" height="100" src="https://img.icons8.com/stickers/100/web.png" alt="web"/>  
+  <img width="144" height="144" src="https://img.icons8.com/stickers/100/web.png" alt="web"/>  
 
 
   Contact-Us:  
@@ -133,7 +133,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
 
 
   #  Machine Learning    
- <img width="96" height="96" src="https://img.icons8.com/color-glass/96/machine-learning.png" alt="machine-learning"/>  
+ <img width="144" height="144" src="https://img.icons8.com/color-glass/96/machine-learning.png" alt="machine-learning"/>  
   
   AI-ML Workshop:  
   https://github.com/stellarboymihir/AI-ML-DS_Workshop
