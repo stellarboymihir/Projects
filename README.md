@@ -105,7 +105,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
   https://github.com/stellarboymihir/Hover-Effect
 
  #  Java     
- <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>    
+<img width="144" height="144" src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   
   Login App:  
   https://github.com/stellarboymihir/LoginApp  
