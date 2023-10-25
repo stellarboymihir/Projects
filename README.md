@@ -2,9 +2,7 @@
 List of various projects Done by me.
 
 # FLutter Applications  
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<polygon fill="#40c4ff" points="26,4 6,24 12,30 38,4"></polygon><polygon fill="#40c4ff" points="38,22 27,33 21,27 26,22"></polygon><rect width="8.485" height="8.485" x="16.757" y="28.757" fill="#03a9f4" transform="rotate(-45.001 21 33)"></rect><polygon fill="#01579b" points="38,44 26,44 21,39 27,33"></polygon><polygon fill="#084994" points="21,39 30,36 27,33"></polygon>
-</svg>
+<img width="144" height="144" src="https://img.icons8.com/color/144/flutter.png" alt="flutter"/>  
 
   Unit-Converter Application:   
   https://github.com/stellarboymihir/unit-converter-app
@@ -134,7 +132,7 @@ https://github.com/stellarboymihir/Widget/tree/master/tab_bar
 
 
   #  Machine Learning    
-  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/machine-learning.png" alt="machine-learning"/>  
+ <img width="96" height="96" src="https://img.icons8.com/color-glass/96/machine-learning.png" alt="machine-learning"/>  
   
   AI-ML Workshop:  
   https://github.com/stellarboymihir/AI-ML-DS_Workshop
