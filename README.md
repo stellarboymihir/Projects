@@ -38,6 +38,52 @@ List of various projects Done by me.
   Widgets:  
   https://github.com/stellarboymihir/Widget
 
+  Animated Container:  
+  https://github.com/stellarboymihir/Widget/tree/master/animated_container  
+  
+  App Bar:  
+  https://github.com/stellarboymihir/Widget/tree/master/app_bar  
+  
+Bottom Nav Bar:  
+https://github.com/stellarboymihir/Widget/tree/master/bottom_nav_bar  
+
+Column:  
+https://github.com/stellarboymihir/Widget/tree/master/column
+
+Container:  
+https://github.com/stellarboymihir/Container  
+
+Drawer:  
+https://github.com/stellarboymihir/Widget/tree/master/drawer  
+
+Gesture Detector:  
+https://github.com/stellarboymihir/Widget/tree/master/gesture_detector  
+
+
+Grid View:  
+https://github.com/stellarboymihir/Widget/tree/master/gridview
+
+Image:  
+https://github.com/stellarboymihir/Widget/tree/master/image  
+
+List View:  
+https://github.com/stellarboymihir/Widget/tree/master/listview  
+
+Media Query:  
+https://github.com/stellarboymihir/Widget/tree/master/mediaquery  
+
+Notify:  
+https://github.com/stellarboymihir/Widget/tree/master/notify  
+
+Round Corner:  
+https://github.com/stellarboymihir/Widget/tree/master/round_corner
+
+Silver App Bar:  
+https://github.com/stellarboymihir/Widget/tree/master/silver_app_bar  
+
+Tab Bar:  
+https://github.com/stellarboymihir/Widget/tree/master/tab_bar  
+
 
   # Web Development  
 
