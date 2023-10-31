@@ -4,6 +4,9 @@ List of various projects Done by me.
 # FLutter Applications  
 <img width="144" height="144" src="https://img.icons8.com/color/144/flutter.png" alt="flutter"/>  
 
+  Stopwatch Application:  
+  https://github.com/stellarboymihir/stopwatch-app  
+  
   Calculator Application:  
   https://github.com/stellarboymihir/Calculator-App  
 
