@@ -98,7 +98,7 @@ https://github.com/stellarboymihir/Widget/tree/master/silver_app_bar
 Tab Bar:  
 https://github.com/stellarboymihir/Widget/tree/master/tab_bar  
 
-TextStyle: 
+TextStyle:   
 https://github.com/stellarboymihir/Widget/tree/master/textstyle  
 
 
