@@ -44,7 +44,10 @@ List of various projects Done by me.
 <img width="144" height="144" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-widget-no-code-flaticons-flat-flat-icons-2.png" alt="external-widget-no-code-flaticons-flat-flat-icons-2"/>   
 
   Widgets:  
-  https://github.com/stellarboymihir/Widget
+  https://github.com/stellarboymihir/Widget  
+
+  Alert Dialog:  
+  https://github.com/stellarboymihir/Widget/tree/master/alertdialog  
 
   Animated Container:  
   https://github.com/stellarboymihir/Widget/tree/master/animated_container  
@@ -81,7 +84,10 @@ Media Query:
 https://github.com/stellarboymihir/Widget/tree/master/mediaquery  
 
 Notify:  
-https://github.com/stellarboymihir/Widget/tree/master/notify  
+https://github.com/stellarboymihir/Widget/tree/master/notify   
+
+Rich Text:  
+https://github.com/stellarboymihir/Widget/tree/master/richtext
 
 Round Corner:  
 https://github.com/stellarboymihir/Widget/tree/master/round_corner
@@ -91,6 +97,9 @@ https://github.com/stellarboymihir/Widget/tree/master/silver_app_bar
 
 Tab Bar:  
 https://github.com/stellarboymihir/Widget/tree/master/tab_bar  
+
+TextStyle: 
+https://github.com/stellarboymihir/Widget/tree/master/textstyle  
 
 
   # Web Development   
